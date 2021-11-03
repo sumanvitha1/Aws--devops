@@ -6,7 +6,7 @@
 
 .main{
     width: 100%;
-    background: linear-gradient(to top, rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%), url(image.jpg);
+    background: linear-gradient(to top, rgba(233, 9, 9, 0.5)50%,rgba(0,0,0,0.5)50%), url(image1.jpg);
     background-position: center;
     background-size: cover;
     height: 109vh;
@@ -25,7 +25,7 @@
 }
 
 .logo{
-    color: #3a27e7;
+    color: #e727ad;
     font-size: 35px;
     font-family: Arial;
     padding-left: 20px;
